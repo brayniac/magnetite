@@ -1,0 +1,10 @@
+[package]
+name = "magnetite"
+version = "0.0.1"
+authors = ["Brian Martin <brayniac@gmail.com>"]
+
+license = "MIT/Apache-2.0"
+description = "name-squatting"
+readme = "README.md"
+
+[dependencies]
